@@ -1,2 +1,3 @@
 # practice-repo-V14
-This is Peactice repository 
+This is Practice repository 
+This is vijay repository
